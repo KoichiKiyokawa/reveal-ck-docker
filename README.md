@@ -1,4 +1,5 @@
 # reveal-ck-docker
+![2020-03-21 16 26 18](https://user-images.githubusercontent.com/40315079/77222127-c48a8b80-6b93-11ea-927b-f56a7e527335.gif)
 
 ## Getting start
 ```shell
